@@ -4,7 +4,7 @@ In this project we put in practice many strategies to explore the house prices d
 
 <p float="left">
   <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/yearbuild_vs_saleprice.png" width="500" height="400"/>
-  <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/correlation_matrix.png" width="300" height="400"/>
+  <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/correlation_matrix.png" width="700" height="400"/>
 </p>
 
 
