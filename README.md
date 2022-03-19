@@ -3,7 +3,7 @@ In this project we put in practice many strategies to explore the house prices d
 
 
 <p float="center">
-  <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/yearbuild_vs_saleprice.png" width="300" height="200"/>
+  <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/yearbuild_vs_saleprice.png" width="600" height="400"/>
 </p>
 
 <p float="center">
