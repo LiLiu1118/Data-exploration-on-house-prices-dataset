@@ -8,6 +8,13 @@ In this project we put in practice many strategies to explore the house prices d
 
 ![yearbuild_vs_saleprice](https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/correlation_matrix.png)
 
+<p align="center">
+  <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/yearbuild_vs_saleprice.png" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/scatter_plot.png" />
+</p>
 
 
 For more details, please check out [house_prices_prediction.ipynb](https://github.com/LiLiu1118/Data-exploration-on-house-prices-dataset/blob/main/house_prices_prediction.ipynb).
